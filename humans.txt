@@ -1,0 +1,29 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Carlos Jiménez Mora
+    www.informatik.es
+    @carlituxman
+    Serón, AL
+
+# THANKS
+
+    @soyjavi, @LaNegrita_es, @bienvenidosaez
+
+# SITE     
+
+    Last update: YYYY/MM/DD                         
+    Standards: HTML5, CSS3, ...
+    Components: TukTuk
+    Software: SublimeText2
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    lungo, QuoJS
+    jQuery, Modernizr, h5bp, bootstrap
+    WordPress
+    node.js, express.js
+
